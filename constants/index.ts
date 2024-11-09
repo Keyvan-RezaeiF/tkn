@@ -26,15 +26,40 @@ const sidebarLinks = [
   },
 ]
 
-const avatarImages = [
-  '/images/avatar-1.jpeg',
-  '/images/avatar-2.jpeg',
-  '/images/avatar-3.png',
-  '/images/avatar-4.png',
-  '/images/avatar-5.png',
+const people = [
+  {
+    id: 1,
+    name: "John Doe",
+    designation: "Software Engineer",
+    image: '/images/avatar-1.jpeg',
+  },
+  {
+    id: 2,
+    name: "Robert Johnson",
+    designation: "Product Manager",
+    image: '/images/avatar-2.jpeg',
+  },
+  {
+    id: 3,
+    name: "Jane Smith",
+    designation: "Data Scientist",
+    image: '/images/avatar-3.png',
+  },
+  {
+    id: 4,
+    name: "Emily Davis",
+    designation: "UX Designer",
+    image: '/images/avatar-4.png',
+  },
+  {
+    id: 5,
+    name: "Tyler Durden",
+    designation: "Soap Developer",
+    image: '/images/avatar-5.png',
+  },
 ]
 
 export {
   sidebarLinks,
-  avatarImages
+  people
 }
