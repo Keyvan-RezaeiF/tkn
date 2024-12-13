@@ -6,10 +6,6 @@ Welcome to the **TKN App**!
 
 Explore the app live: [TKN App Demo](http://tkn-henna.vercel.app/)
 
-## Repository
-
-Find the source code and contribute to the project: [GitHub Repository](https://github.com/Keyvan-RezaeiF/tkn)
-
 ---
 
 ## Repository Overview
@@ -54,9 +50,6 @@ Follow these steps to set up the app locally:
 - Built with TypeScript for type safety.
 - Styled using Tailwind CSS for responsive and modern design.
 - Deployed using **Vercel**.
-
-## About the Developer
-Keyvan Rezaei is a Computer Engineering student at KNTU and a Front-End Developer at Namava.
 
 ---
 
