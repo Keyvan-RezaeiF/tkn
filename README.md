@@ -1,4 +1,4 @@
-# TKN Henna App
+# TKN App
 
 Welcome to the **TKN App**!
 
